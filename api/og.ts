@@ -1,7 +1,8 @@
 /* eslint-disable @typescript-eslint/no-explicit-any -- prerender reads dynamic, loosely-typed PostgREST JSON */
 export const config = { runtime: 'edge' };
 
-import { pagePath, splitLanguagePrefix } from '../src/lib/language-path';
+//import { pagePath, splitLanguagePrefix } from '../src/lib/language-path';
+import { pagePath, splitLanguagePrefix } from '../src/lib/language-path.js';
 
 declare const process: { env: Record<string, string | undefined> };
 
