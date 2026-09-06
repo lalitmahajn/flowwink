@@ -129,4 +129,6 @@ If you operate FlowWink alongside specialist agents (marketing growth, finance r
 
 ## What you do not need to read
 
+<!-- deployment test -->
+
 The whole [`builders/`](../builders/README.md), [`pilot/`](../pilot/), and [`contributing/`](../contributing/) trees are for people extending the codebase. Skip them unless you're writing your own module.
