@@ -1,4 +1,5 @@
-import { baseSubtag } from './pick-locale';
+//import { baseSubtag } from './pick-locale';
+import { baseSubtag } from './pick-locale.js';
 
 /**
  * The address form for a translated page, in ONE place.
