@@ -3,7 +3,7 @@ title: "Provisioning without a CLI — fork, Vercel, Supabase, done"
 description: Stand up a complete FlowWink instance using only web dashboards — no local tooling, no scripts, no agent.
 category: operators
 ---
-........
+
 # Provisioning without a CLI — fork, Vercel, Supabase, done
 
 > The zero-tooling install path: a GitHub fork, a Vercel project and a Supabase
