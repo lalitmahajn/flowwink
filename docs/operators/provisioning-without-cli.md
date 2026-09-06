@@ -4,7 +4,7 @@ description: Stand up a complete FlowWink instance using only web dashboards —
 category: operators
 ---
 
-# Provisioning without a CLI — fork, Vercel, Supabase, done123
+# Provisioning without a CLI — fork, Vercel, Supabase, done12345
 
 > The zero-tooling install path: a GitHub fork, a Vercel project and a Supabase
 > project, wired together entirely from their dashboards. Proven end-to-end on
