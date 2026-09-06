@@ -483,8 +483,7 @@ Cross-references inside this repo:
 
 MIT — see [LICENSE](LICENSE) for details.
 
----
----
+------
 
 *Stop managing tools. Start directing outcomes. Bring your own operator — or use the one in the box.*
 
